@@ -5,7 +5,7 @@ An awesome list for Mirador's projects and plugins.
 
 * Creating your own plugin. Label it with ["mirador-plugins"](https://github.com/search?q=topic%3Amirador-plugins&type=Repositories)
 
-[BSB Mirador Pluginst](https://github.com/dbmdz/mirador-plugins)
+[BSB Mirador Plugins](https://github.com/dbmdz/mirador-plugins)
 * A repository of Mirador plugins maintained by the Bavarian State Library
 
 [Mirador LDN Plugin](https://github.com/jeffreycwitt/mirador-ldn-plugin)
