@@ -16,6 +16,10 @@ An awesome list for Mirador's projects and plugins.
 [Mirador Disable Zoom](https://github.com/UCLALibrary/mirador-disable-zoom)
 * mirador-disable-zoom - A Mirador plugin that allows users to disable (and re-enable) zoom controls per window
 
+## Mirador-Based Tools
+
+[IIIF Toolkit with Mirador](https://github.com/utlib/IiifItems)
+* Embeds Mirador into Omeka Classic with a built-in annotator, a manifest generator and importer, Simple Pages shortcodes and Exhibit Builder blocks for a rich IIIF-compliant presentation experience.
 
 ## Implementations
 
