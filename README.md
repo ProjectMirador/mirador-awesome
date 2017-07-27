@@ -21,3 +21,5 @@ An awesome list for Mirador's projects and plugins.
 
 [SCTA Mirador Instance](http://mirador.scta.info)
 * A Mirador instance dedicated to viewing manuscripts collected and curated by the Scholastic Commentaries and Texts Archive
+
+[Archaeology of Reading](http://archaeologyofreading.org/viewer/) : A Mirador instance for displaying and studying annotations in early printed books.
