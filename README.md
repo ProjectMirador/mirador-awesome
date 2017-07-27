@@ -23,3 +23,16 @@ An awesome list for Mirador's projects and plugins.
 * A Mirador instance dedicated to viewing manuscripts collected and curated by the Scholastic Commentaries and Texts Archive
 
 [Archaeology of Reading](http://archaeologyofreading.org/viewer/) : A Mirador instance for displaying and studying annotations in early printed books.
+
+[Harvard Art Museums](http://apps.harvardartmuseums.org/mirador/)
+* A Mirador instance of random objects in the Harvard Art Museums collection.
+
+[Harvard Library Viewer](https://iiif.lib.harvard.edu/manifests/view/drs:5981093$9b)
+* Mirador is the native viewer for page-turned objects in the Havard Digital Repository System.
+
+HarvardX
+* [CellXplorer](https://courses.edx.org/courses/course-v1:HarvardX+MCB64.1x+2T2016/d16e07a5cec442eeb7cd9dfcb695dce0/)
+* [The Book: Histories Across Time and Space](https://www.edx.org/book-histories-across-time-space-0)
+
+[Hacking Mirador Workshop @ Harvard](http://darthcrimson.org/hacking-mirador/)
+* Introduce users to IIIF and Mirador and understand Mirador's capabilities.
