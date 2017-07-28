@@ -32,7 +32,7 @@ An awesome list for Mirador's projects and plugins.
 * A Mirador instance of random objects in the Harvard Art Museums collection.
 
 [Harvard Library Viewer](https://iiif.lib.harvard.edu/manifests/view/drs:5981093$9b)
-* Mirador is the native viewer for page-turned objects in the Havard Digital Repository System.
+* Mirador is the native viewer for page-turned objects in the Harvard Digital Repository System.
 
 HarvardX
 * [CellXplorer](https://courses.edx.org/courses/course-v1:HarvardX+MCB64.1x+2T2016/d16e07a5cec442eeb7cd9dfcb695dce0/)
@@ -40,3 +40,12 @@ HarvardX
 
 [Hacking Mirador Workshop @ Harvard](http://darthcrimson.org/hacking-mirador/)
 * Introduce users to IIIF and Mirador and understand Mirador's capabilities.
+
+[Biblissima Portal](http://biblissima.fr)
+* Mirador as an embedded viewer displaying digitized medieval manuscripts and early printed books (either a single item or a collection of items)
+* Mirador as a configurable workspace that gives users the ability to save persistently and share their viewing environment through a permalink.
+
+Biblissima Demos (use cases focused on manuscripts studies)
+* [Grandes Chroniques de France - Châteauroux BM ms. 5](http://demos.biblissima-condorcet.fr/chateauroux/demo/): A slightly customized Mirador instance displaying the virtual reconstruction of the original state of a damaged French medieval manuscript (illuminations cuttings).
+* [Proto-BBMN 1713](http://demos.biblissima-condorcet.fr/bbmn-1713/mirador/): A Mirador instance showing a virtual reconstruction of the primitive state of the Bibliotheca bibliothecarum manuscriptorum nova (in 1713).
+* [Codex Florus "dispersus"](http://demos.biblissima-condorcet.fr/florus/florus-dispersus/mirador/): A Mirador instance showing the virtual reconstruction of a dispersed manuscript of letters and sermons by Augustine (Paris, Geneva, St. Petersburg).
