@@ -5,7 +5,7 @@ An awesome list for Mirador's projects and plugins.
 
 ## Plugins
 
-* Creating your own plugin. Label it with ["mirador-plugins"](https://github.com/search?q=topic%3Amirador-plugins&type=Repositories)
+* Creating your own plugin? Label it with ["mirador-plugins"](https://github.com/search?q=topic%3Amirador-plugins&type=Repositories)
 
 [BSB Mirador Plugins](https://github.com/dbmdz/mirador-plugins)
 * A repository of Mirador plugins maintained by the Bavarian State Library
@@ -22,6 +22,8 @@ An awesome list for Mirador's projects and plugins.
 * Embeds Mirador into Omeka Classic with a built-in annotator, a manifest generator and importer, Simple Pages shortcodes and Exhibit Builder blocks for a rich IIIF-compliant presentation experience.
 
 ## Implementations
+
+* Have a Mirador implementation? Label it with ["mirador"](https://github.com/search?q=topic%3Amirador&type=Repositories)
 
 [SCTA Mirador Instance](http://mirador.scta.info)
 * A Mirador instance dedicated to viewing manuscripts collected and curated by the Scholastic Commentaries and Texts Archive
