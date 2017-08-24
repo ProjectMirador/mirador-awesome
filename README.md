@@ -14,7 +14,10 @@ An awesome list for Mirador's projects and plugins.
 * A experimental plugin for incorporating supplemental IIIF content into Mirador via Linked Data Notifications.
 
 [Mirador Disable Zoom](https://github.com/UCLALibrary/mirador-disable-zoom)
-* mirador-disable-zoom - A Mirador plugin that allows users to disable (and re-enable) zoom controls per window
+* A Mirador plugin that allows users to disable (and re-enable) zoom controls per window.
+
+[Mirador Sync Windows](https://github.com/UCLALibrary/mirador-sync-windows)
+* A Mirador plugin that allows users to mirror actions performed in one window in one or more other windows.
 
 ## Mirador-Based Tools
 
