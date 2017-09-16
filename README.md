@@ -16,6 +16,10 @@ Creating your own plugin? Label it with ["mirador-plugins"](https://github.com/s
 
 - [IIIF Toolkit with Mirador](https://github.com/utlib/IiifItems) - Embeds Mirador into Omeka Classic with a built-in annotator, a manifest generator and importer, Simple Pages shortcodes and Exhibit Builder blocks for a rich IIIF-compliant presentation experience.
 
+## Tutorials
+
+- [Tutorial Mirador Viewer](http://heron-net.be/libisplus/themes/LIBIS_PLUS/images/Docs/Tutorial_Mirador.pdf) - PDF explaining how to use many Mirador features.
+
 ## Implementations
 
 Have a Mirador implementation? Label it with ["mirador"](https://github.com/search?q=topic%3Amirador&type=Repositories)
