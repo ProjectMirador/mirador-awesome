@@ -11,6 +11,8 @@ Creating your own plugin? Label it with ["mirador-plugins"](https://github.com/s
 - [Mirador LDN Plugin](https://github.com/jeffreycwitt/mirador-ldn-plugin) - A experimental plugin for incorporating supplemental IIIF content into Mirador via Linked Data Notifications.
 - [Mirador Disable Zoom](https://github.com/UCLALibrary/mirador-disable-zoom) - A Mirador plugin that allows users to disable (and re-enable) zoom controls per window.
 - [Mirador Sync Windows](https://github.com/UCLALibrary/mirador-sync-windows) - A Mirador plugin that allows users to mirror actions performed in one window in one or more other windows.
+- [Mirador Share Workspace](https://github.com/UCLALibrary/mirador-share-workspace) - A Mirador plugin that allows users to share workspaces across workstations.
+- [Mirador Ruler](https://github.com/UCLALibrary/mirador-ruler) - A Mirador plugin that allows users to overlay a configurable ruler on any window.
 
 ## Mirador-Based Tools
 
@@ -35,3 +37,5 @@ Have a Mirador implementation? Label it with ["mirador"](https://github.com/sear
   - [Grandes Chroniques de France - Châteauroux BM ms. 5](http://demos.biblissima-condorcet.fr/chateauroux/demo/) - A slightly customized Mirador instance displaying the virtual reconstruction of the original state of a damaged French medieval manuscript (illuminations cuttings).
   - [Proto-BBMN 1713](http://demos.biblissima-condorcet.fr/bbmn-1713/mirador/) - A Mirador instance showing a virtual reconstruction of the primitive state of the Bibliotheca bibliothecarum manuscriptorum nova (in 1713).
   - [Codex Florus "dispersus"](http://demos.biblissima-condorcet.fr/florus/florus-dispersus/mirador/) - A Mirador instance showing the virtual reconstruction of a dispersed manuscript of letters and sermons by Augustine (Paris, Geneva, St. Petersburg).
+- [UCLA Digital Library: Flexible Workspace](https://github.com/UCLALibrary/mirador/tree/flexible-workspace) - A fork of Mirador that replaces the default window layout manager with a more flexible one, allowing for finer-grained positioning and resizing of windows, and for combining windows into groups that can be dragged as one.
+  - Demo: https://mirador.library.ucla.edu
