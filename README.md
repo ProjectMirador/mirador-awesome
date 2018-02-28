@@ -13,6 +13,7 @@ Creating your own plugin? Label it with ["mirador-plugins"](https://github.com/s
 - [Mirador Sync Windows](https://github.com/UCLALibrary/mirador-sync-windows) - A Mirador plugin that allows users to mirror actions performed in one window in one or more other windows.
 - [Mirador Share Workspace](https://github.com/UCLALibrary/mirador-share-workspace) - A Mirador plugin that allows users to share workspaces across workstations.
 - [Mirador Ruler](https://github.com/UCLALibrary/mirador-ruler) - A Mirador plugin that allows users to overlay a configurable ruler on any window.
+- [Mirador Jump-to-page](https://github.com/sul-dlss/mirador-jump-to-page) - A Mirador plugin that allows users to select a page from a dropdown.
 
 ## Mirador-Based Tools
 
