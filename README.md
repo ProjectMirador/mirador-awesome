@@ -43,3 +43,4 @@ Have a Mirador implementation? Label it with ["mirador"](https://github.com/sear
   - [Codex Florus "dispersus"](http://demos.biblissima-condorcet.fr/florus/florus-dispersus/mirador/) - A Mirador instance showing the virtual reconstruction of a dispersed manuscript of letters and sermons by Augustine (Paris, Geneva, St. Petersburg).
 - [UCLA Digital Library: Flexible Workspace](https://github.com/UCLALibrary/mirador/tree/flexible-workspace) - A fork of Mirador that replaces the default window layout manager with a more flexible one, allowing for finer-grained positioning and resizing of windows, and for combining windows into groups that can be dragged as one.
   - Demo: https://mirador.library.ucla.edu
+- [vHMML](https://www.vhmml.org) - Mirador as an embedded viewer that provides access to [The Hill Museum & Manuscript Library's](http://hmml.org/) (HMML) digital and microfilm collections. 
