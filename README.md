@@ -5,15 +5,26 @@ An awesome list for Mirador's projects and plugins.
 
 ## Plugins
 
-Creating your own plugin? Label it with ["mirador-plugins"](https://github.com/search?q=topic%3Amirador-plugins&type=Repositories)
+Creating your own plugin? Label it with ["mirador-plugins"](https://github.com/search?q=topic%3Amirador-plugins&type=Repositories). `M3` between brackets indicates support for Mirador 3, where known. 
 
-- [BSB Mirador Plugins](https://github.com/dbmdz/mirador-plugins) - A repository of Mirador plugins maintained by the Bavarian State Library.
-- [Mirador LDN Plugin](https://github.com/jeffreycwitt/mirador-ldn-plugin) - A experimental plugin for incorporating supplemental IIIF content into Mirador via Linked Data Notifications.
-- [Mirador Disable Zoom](https://github.com/UCLALibrary/mirador-disable-zoom) - A Mirador plugin that allows users to disable (and re-enable) zoom controls per window.
-- [Mirador Sync Windows](https://github.com/UCLALibrary/mirador-sync-windows) - A Mirador plugin that allows users to mirror actions performed in one window in one or more other windows.
-- [Mirador Share Workspace](https://github.com/UCLALibrary/mirador-share-workspace) - A Mirador plugin that allows users to share workspaces across workstations.
-- [Mirador Ruler](https://github.com/UCLALibrary/mirador-ruler) - A Mirador plugin that allows users to overlay a configurable ruler on any window.
-- [Mirador Jump-to-page](https://github.com/sul-dlss/mirador-jump-to-page) - A Mirador plugin that allows users to select a page from a dropdown.
+- Mirador:
+     - [Annotations Plugin (M3)](https://github.com/ProjectMirador/mirador-annotations)
+     - [Annotot Endpoint Plugin (M3)](https://github.com/ProjectMirador/mirador-annotot-endpoint-plugin)
+     - [Download Plugin (M3)](https://github.com/ProjectMirador/mirador-dl-plugin)
+     - [Image Tools (M3)](https://github.com/ProjectMirador/mirador-image-tools)
+     - [Share Plugin (M3)](https://github.com/ProjectMirador/mirador-share-plugin)
+     - [See also the plugin demos](https://github.com/ProjectMirador/mirador-plugin-demos)
+- [BSB Mirador Plugins](https://github.com/dbmdz/mirador-plugins) (M2 and M3) - A repository of Mirador plugins maintained by the Bavarian State Library. 
+- [Annotation Tooltip (M3)](https://github.com/2SC1815J/mirador-annotation-tooltip-plugin)
+- [LDN Plugin](https://github.com/jeffreycwitt/mirador-ldn-plugin) - A experimental plugin for incorporating supplemental IIIF content into Mirador via Linked Data Notifications.
+- [Jump-to-page (M2)](https://github.com/sul-dlss/mirador-jump-to-page) - A Mirador plugin that allows users to select a page from a dropdown.
+- [Metadata Tab plugin](https://github.com/Daniel-KM/Mirador-plugin-MetadataTab) - developed for Omeka S. 
+
+- From UCLA Library (all archived): 
+    - [Disable Zoom](https://github.com/UCLALibrary/mirador-disable-zoom) - A Mirador plugin that allows users to disable (and re-enable) zoom controls per window.
+    - [Sync Windows](https://github.com/UCLALibrary/mirador-sync-windows) - A Mirador plugin that allows users to mirror actions performed in one window in one or more other windows.
+    - [Share Workspace](https://github.com/UCLALibrary/mirador-share-workspace) - A Mirador plugin that allows users to share workspaces across workstations.
+    - [Ruler](https://github.com/UCLALibrary/mirador-ruler) - A Mirador plugin that allows users to overlay a configurable ruler on any window.
 
 ## Mirador-Based Tools
 
@@ -24,7 +35,7 @@ Creating your own plugin? Label it with ["mirador-plugins"](https://github.com/s
 
 ## Tutorials
 
-- [Tutorial Mirador Viewer](http://heron-net.be/libisplus/themes/LIBIS_PLUS/images/Docs/Tutorial_Mirador.pdf) - PDF explaining how to use many Mirador features.
+- [Tutorial Mirador Viewer](http://heron-net.be/libisplus/themes/LIBIS_PLUS/images/Docs/Tutorial_Mirador.pdf) - PDF explaining how to use many Mirador features. Accessible only after login authentication.
 
 ## Implementations
 
