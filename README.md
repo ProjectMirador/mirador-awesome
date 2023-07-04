@@ -8,34 +8,34 @@ An awesome list for Mirador's projects and plugins.
 Creating your own plugin? Label it with ["mirador-plugins"](https://github.com/search?q=topic%3Amirador-plugins&type=Repositories). `M3` between brackets indicates support for Mirador 3, where known. 
 
 - Project Mirador:
-     - [Annotations Plugin (M3)](https://github.com/ProjectMirador/mirador-annotations)
-     - [Annotot Endpoint Plugin (M3)](https://github.com/ProjectMirador/mirador-annotot-endpoint-plugin)
-     - [Download Plugin (M3)](https://github.com/ProjectMirador/mirador-dl-plugin)
-     - [Image Tools (M3)](https://github.com/ProjectMirador/mirador-image-tools)
-     - [Share Plugin (M3)](https://github.com/ProjectMirador/mirador-share-plugin)
-     - [See also the plugin demos](https://github.com/ProjectMirador/mirador-plugin-demos)
+     - [Annotations Plugin](https://github.com/ProjectMirador/mirador-annotations) (M3)
+     - [Annotot Endpoint Plugin](https://github.com/ProjectMirador/mirador-annotot-endpoint-plugin)  (M3)
+     - [Download Plugin](https://github.com/ProjectMirador/mirador-dl-plugin) (M3)
+     - [Image Tools](https://github.com/ProjectMirador/mirador-image-tools) (M3)
+     - [Share Plugin](https://github.com/ProjectMirador/mirador-share-plugin) (M3)
+     - [See also the plugin demos](https://github.com/ProjectMirador/mirador-plugin-demos) (M3)
 - [BSB Mirador Plugins](https://github.com/dbmdz/mirador-plugins) (M2 and M3) - A repository of Mirador plugins maintained by the Bavarian State Library, including
     - CanvasLink - Lets you get a link to currently shown canvas
     - ImageCropper - Adds an overlay to the canvas for retrieving the image url for the selected area
     - PhysicalRuler - Adds a ruler with metric or imperial units
     - ShareButtons
     - ViewFromUrl - Lets you update the URL to reflect the current view type, manifest and canvas
-- [Annotation Tooltip (M3)](https://github.com/2SC1815J/mirador-annotation-tooltip-plugin)
-- [LDN Plugin](https://github.com/jeffreycwitt/mirador-ldn-plugin) - An experimental plugin for incorporating supplemental IIIF content into Mirador via Linked Data Notifications.
-- [Jump-to-page (M2)](https://github.com/sul-dlss/mirador-jump-to-page) - A Mirador plugin that allows users to select a page from a dropdown.
-- [Metadata Tab plugin](https://github.com/Daniel-KM/Mirador-plugin-MetadataTab) - developed for Omeka S. 
+- [Annotation Tooltip](https://github.com/2SC1815J/mirador-annotation-tooltip-plugin) (M3)
+- [LDN Plugin](https://github.com/jeffreycwitt/mirador-ldn-plugin) (M2) - An experimental plugin for incorporating supplemental IIIF content into Mirador via Linked Data Notifications.
+- [Jump-to-page](https://github.com/sul-dlss/mirador-jump-to-page) (M2) - A Mirador plugin that allows users to select a page from a dropdown.
+- [Metadata Tab plugin](https://github.com/Daniel-KM/Mirador-plugin-MetadataTab) (M2) - developed for Omeka S. 
 
 ### Archived
 - From UCLA Library (all archived): 
-    - [Disable Zoom](https://github.com/UCLALibrary/mirador-disable-zoom) - A Mirador plugin that allows users to disable (and re-enable) zoom controls per window.
-    - [Sync Windows](https://github.com/UCLALibrary/mirador-sync-windows) - A Mirador plugin that allows users to mirror actions performed in one window in one or more other windows.
-    - [Share Workspace](https://github.com/UCLALibrary/mirador-share-workspace) - A Mirador plugin that allows users to share workspaces across workstations.
-    - [Ruler](https://github.com/UCLALibrary/mirador-ruler) - A Mirador plugin that allows users to overlay a configurable ruler on any window.
+    - [Disable Zoom](https://github.com/UCLALibrary/mirador-disable-zoom) (M2) - A Mirador plugin that allows users to disable (and re-enable) zoom controls per window.
+    - [Sync Windows](https://github.com/UCLALibrary/mirador-sync-windows) (M2) - A Mirador plugin that allows users to mirror actions performed in one window in one or more other windows.
+    - [Share Workspace](https://github.com/UCLALibrary/mirador-share-workspace) (M2) - A Mirador plugin that allows users to share workspaces across workstations.
+    - [Ruler](https://github.com/UCLALibrary/mirador-ruler) (M2) - A Mirador plugin that allows users to overlay a configurable ruler on any window.
 
 ## Mirador-Based Tools
 
 - [IIIF Toolkit with Mirador](https://github.com/utlib/IiifItems) - Embeds Mirador into Omeka Classic with a built-in annotator, a manifest generator and importer, Simple Pages shortcodes and Exhibit Builder blocks for a rich IIIF-compliant presentation experience.
-- [Mirador extension for MediaWiki](https://github.com/a-g-van-hamel-foundation/Mirador/) - offers a parser functiion to make a build of Mirador 3, including four plugins, available for use in MediaWiki. Developed by CODECS.
+- [Mirador extension for MediaWiki](https://github.com/a-g-van-hamel-foundation/Mirador/) - offers a parser function to make a build of Mirador 3, including four plugins, available for use in MediaWiki. Developed by CODECS.
 
 ## Packages
 - [mirador_rails](https://github.com/sul-dlss/mirador_rails) - A Ruby gem useful for including Mirador into Ruby on Rails applications
