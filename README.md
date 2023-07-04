@@ -7,19 +7,25 @@ An awesome list for Mirador's projects and plugins.
 
 Creating your own plugin? Label it with ["mirador-plugins"](https://github.com/search?q=topic%3Amirador-plugins&type=Repositories). `M3` between brackets indicates support for Mirador 3, where known. 
 
-- Mirador:
+- Project Mirador:
      - [Annotations Plugin (M3)](https://github.com/ProjectMirador/mirador-annotations)
      - [Annotot Endpoint Plugin (M3)](https://github.com/ProjectMirador/mirador-annotot-endpoint-plugin)
      - [Download Plugin (M3)](https://github.com/ProjectMirador/mirador-dl-plugin)
      - [Image Tools (M3)](https://github.com/ProjectMirador/mirador-image-tools)
      - [Share Plugin (M3)](https://github.com/ProjectMirador/mirador-share-plugin)
      - [See also the plugin demos](https://github.com/ProjectMirador/mirador-plugin-demos)
-- [BSB Mirador Plugins](https://github.com/dbmdz/mirador-plugins) (M2 and M3) - A repository of Mirador plugins maintained by the Bavarian State Library. 
+- [BSB Mirador Plugins](https://github.com/dbmdz/mirador-plugins) (M2 and M3) - A repository of Mirador plugins maintained by the Bavarian State Library, including
+    - CanvasLink - Lets you get a link to currently shown canvas
+    - ImageCropper - Adds an overlay to the canvas for retrieving the image url for the selected area
+    - PhysicalRuler - Adds a ruler with metric or imperial units
+    - ShareButtons
+    - ViewFromUrl - Lets you update the URL to reflect the current view type, manifest and canvas
 - [Annotation Tooltip (M3)](https://github.com/2SC1815J/mirador-annotation-tooltip-plugin)
-- [LDN Plugin](https://github.com/jeffreycwitt/mirador-ldn-plugin) - A experimental plugin for incorporating supplemental IIIF content into Mirador via Linked Data Notifications.
+- [LDN Plugin](https://github.com/jeffreycwitt/mirador-ldn-plugin) - An experimental plugin for incorporating supplemental IIIF content into Mirador via Linked Data Notifications.
 - [Jump-to-page (M2)](https://github.com/sul-dlss/mirador-jump-to-page) - A Mirador plugin that allows users to select a page from a dropdown.
 - [Metadata Tab plugin](https://github.com/Daniel-KM/Mirador-plugin-MetadataTab) - developed for Omeka S. 
 
+### Archived
 - From UCLA Library (all archived): 
     - [Disable Zoom](https://github.com/UCLALibrary/mirador-disable-zoom) - A Mirador plugin that allows users to disable (and re-enable) zoom controls per window.
     - [Sync Windows](https://github.com/UCLALibrary/mirador-sync-windows) - A Mirador plugin that allows users to mirror actions performed in one window in one or more other windows.
@@ -29,6 +35,7 @@ Creating your own plugin? Label it with ["mirador-plugins"](https://github.com/s
 ## Mirador-Based Tools
 
 - [IIIF Toolkit with Mirador](https://github.com/utlib/IiifItems) - Embeds Mirador into Omeka Classic with a built-in annotator, a manifest generator and importer, Simple Pages shortcodes and Exhibit Builder blocks for a rich IIIF-compliant presentation experience.
+- [Mirador extension for MediaWiki](https://github.com/a-g-van-hamel-foundation/Mirador/) - offers a parser functiion to make a build of Mirador 3, including four plugins, available for use in MediaWiki. Developed by CODECS.
 
 ## Packages
 - [mirador_rails](https://github.com/sul-dlss/mirador_rails) - A Ruby gem useful for including Mirador into Ruby on Rails applications
@@ -51,8 +58,9 @@ Have a Mirador implementation? Label it with ["mirador"](https://github.com/sear
 - Biblissima Demos (use cases focused on manuscripts studies)
   - [Grandes Chroniques de France - Châteauroux BM ms. 5](http://demos.biblissima-condorcet.fr/chateauroux/demo/) - A slightly customized Mirador instance displaying the virtual reconstruction of the original state of a damaged French medieval manuscript (illuminations cuttings).
   - [Proto-BBMN 1713](http://demos.biblissima-condorcet.fr/bbmn-1713/mirador/) - A Mirador instance showing a virtual reconstruction of the primitive state of the Bibliotheca bibliothecarum manuscriptorum nova (in 1713).
-  - [Codex Florus "dispersus"](http://demos.biblissima-condorcet.fr/florus/florus-dispersus/mirador/) - A Mirador instance showing the virtual reconstruction of a dispersed manuscript of letters and sermons by Augustine (Paris, Geneva, St. Petersburg).
+  - [Codex Florus "dispersus"](http://demos.biblissima-condorcet.fr/florus/florus-dispersus/mirador/) - A Mirador 2 instance showing the virtual reconstruction of a dispersed manuscript of letters and sermons by Augustine (Paris, Geneva, St. Petersburg).
 - [UCLA Digital Library: Flexible Workspace](https://github.com/UCLALibrary/mirador/tree/flexible-workspace) - A fork of Mirador that replaces the default window layout manager with a more flexible one, allowing for finer-grained positioning and resizing of windows, and for combining windows into groups that can be dragged as one.
   - Demo: https://mirador.library.ucla.edu
 - [vHMML](https://www.vhmml.org) - Mirador as an embedded viewer that provides access to [The Hill Museum & Manuscript Library's](http://hmml.org/) (HMML) digital and microfilm collections. 
 - [Art Institute of Chicago](https://www.artic.edu/) - An in-gallery implementation of Mirador with custom design work and added swipe capabilities. This implementation was designed and developed specifically for an iPad Pro using Kiosk Pro. An example [here](http://media.artic.edu/charleswhite/). Check out our 'inGallery' branch here: [https://github.com/art-institute-of-chicago/mirador](https://github.com/art-institute-of-chicago/mirador).
+- [Irish Script on Screen](https://www.isos.dias.ie)
