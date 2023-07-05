@@ -14,7 +14,14 @@ Creating your own plugin? Label it with ["mirador-plugins"](https://github.com/s
      - [Image Tools](https://github.com/ProjectMirador/mirador-image-tools) (M3)
      - [Share Plugin](https://github.com/ProjectMirador/mirador-share-plugin) (M3)
      - [See also the plugin demos](https://github.com/ProjectMirador/mirador-plugin-demos) (M3)
-- [BSB Mirador Plugins](https://github.com/dbmdz/mirador-plugins) (M2 and M3) - A repository of Mirador plugins maintained by the Bavarian State Library, including
+- BSB Mirador 3 Plugins
+    - [mirador-textoverlay](https://github.com/dbmdz/mirador-textoverlay) (M3) - Display and select OCR text provided via annotations or ALTO XML
+    - [mirador-keyboardshortcuts](https://github.com/dbmdz/mirador-keyboardshortcuts) (M3) - Adds keyboard shortcuts for faster navigation
+    - [mirador-imagecropper](https://github.com/dbmdz/mirador-imagecropper) (M3) - Create a IIIF Image URL for a selected area on a Canvas
+    - [mirador-downloaddialog](https://github.com/dbmdz/mirador-downloaddialog) - Offers images as download, as well as the URLs provided via `seeAlso`
+    - [mirador-canvaslink](https://github.com/dbmdz/mirador-canvaslink) (M3) - Share a link to the current Canvas
+    - [mirador-canvasnavigation](https://github.com/dbmdz/mirador-canvasnavigation) (M3) - Offers an alternative Canvas navigation
+- [BSB Mirador 2 Plugins](https://github.com/dbmdz/mirador-plugins) (M2) - A repository of Mirador plugins maintained by the Bavarian State Library, including
     - CanvasLink - Lets you get a link to currently shown canvas
     - ImageCropper - Adds an overlay to the canvas for retrieving the image url for the selected area
     - PhysicalRuler - Adds a ruler with metric or imperial units
