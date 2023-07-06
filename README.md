@@ -20,7 +20,7 @@ Creating your own plugin? Label it with ["mirador-plugins"](https://github.com/s
     - [mirador-imagecropper](https://github.com/dbmdz/mirador-imagecropper) (M3) - Create a IIIF Image URL for a selected area on a Canvas
     - [mirador-downloaddialog](https://github.com/dbmdz/mirador-downloaddialog) - Offers images as download, as well as the URLs provided via `seeAlso`
     - [mirador-canvaslink](https://github.com/dbmdz/mirador-canvaslink) (M3) - Share a link to the current Canvas
-    - [mirador-canvasnavigation](https://github.com/dbmdz/mirador-canvasnavigation) (M3) - Offers an alternative Canvas navigation
+    - [mirador-canvasnavigation](https://github.com/dbmdz/mirador-canvasnavigation) (M3) - Offers an alternative Canvas navigation with the ability to jump to arbitrary canvases
 - [BSB Mirador 2 Plugins](https://github.com/dbmdz/mirador-plugins) (M2) - A repository of Mirador plugins maintained by the Bavarian State Library, including
     - CanvasLink - Lets you get a link to currently shown canvas
     - ImageCropper - Adds an overlay to the canvas for retrieving the image url for the selected area
