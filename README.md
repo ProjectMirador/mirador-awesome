@@ -16,7 +16,7 @@ Creating your own plugin? Label it with ["mirador-plugins"](https://github.com/s
      - [See also the plugin demos](https://github.com/ProjectMirador/mirador-plugin-demos) (M3)
 - BSB Mirador 3 Plugins
     - [mirador-textoverlay](https://github.com/dbmdz/mirador-textoverlay) (M3) - Display and select OCR text provided via annotations, hOCR or ALTO XML
-    - [mirador-keyboardshortcuts](https://github.com/dbmdz/mirador-keyboardshortcuts) (M3) - Adds keyboard shortcuts for faster navigation
+    - [mirador-keyboardshortcuts](https://github.com/dbmdz/mirador-keyboardshortcuts) (M3) - Adds customizable keyboard shortcuts for faster navigation
     - [mirador-imagecropper](https://github.com/dbmdz/mirador-imagecropper) (M3) - Create a IIIF Image URL for a selected area on a Canvas
     - [mirador-downloaddialog](https://github.com/dbmdz/mirador-downloaddialog) - Offers images as download, as well as the URLs provided via `seeAlso`
     - [mirador-canvaslink](https://github.com/dbmdz/mirador-canvaslink) (M3) - Share a link to the current Canvas
