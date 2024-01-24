@@ -8,18 +8,26 @@ An awesome list for Mirador's projects and plugins.
 Creating your own plugin? Label it with ["mirador-plugins"](https://github.com/search?q=topic%3Amirador-plugins&type=Repositories). `M3` between brackets indicates support for Mirador 3, where known. 
 
 - Project Mirador:
-     - [Annotations Plugin](https://github.com/ProjectMirador/mirador-annotations) (M3)
-     - [Annotot Endpoint Plugin](https://github.com/ProjectMirador/mirador-annotot-endpoint-plugin)  (M3)
-     - [Download Plugin](https://github.com/ProjectMirador/mirador-dl-plugin) (M3)
-     - [Image Tools](https://github.com/ProjectMirador/mirador-image-tools) (M3)
-     - [Share Plugin](https://github.com/ProjectMirador/mirador-share-plugin) (M3)
-     - [See also the plugin demos](https://github.com/ProjectMirador/mirador-plugin-demos) (M3)
-- [BSB Mirador Plugins](https://github.com/dbmdz/mirador-plugins) (M2 and M3) - A repository of Mirador plugins maintained by the Bavarian State Library, including
-    - CanvasLink - Lets you get a link to currently shown canvas
-    - ImageCropper - Adds an overlay to the canvas for retrieving the image url for the selected area
-    - PhysicalRuler - Adds a ruler with metric or imperial units
-    - ShareButtons
-    - ViewFromUrl - Lets you update the URL to reflect the current view type, manifest and canvas
+    - [Annotations Plugin](https://github.com/ProjectMirador/mirador-annotations) (M3)
+    - [Annotot Endpoint Plugin](https://github.com/ProjectMirador/mirador-annotot-endpoint-plugin)  (M3)
+    - [Download Plugin](https://github.com/ProjectMirador/mirador-dl-plugin) (M3)
+    - [Image Tools](https://github.com/ProjectMirador/mirador-image-tools) (M3)
+    - [Share Plugin](https://github.com/ProjectMirador/mirador-share-plugin) (M3)
+    - [See also the plugin demos](https://github.com/ProjectMirador/mirador-plugin-demos) (M3)
+- Bavarian State Library
+    - [Mirador 2 plugins](https://github.com/dbmdz/mirador-plugins) - A repository of Mirador plugins, including
+        - CanvasLink: Lets you get a link to currently shown canvas
+        - ImageCropper: Adds an overlay to the canvas for retrieving the image url for the selected area
+        - PhysicalRuler: Adds a ruler with metric or imperial units
+        - ShareButtons
+        - ViewFromUrl: Lets you update the URL to reflect the current view type, manifest and canvas
+    - Mirador 3 Plugins:
+        - [CanvasLink](https://github.com/dbmdz/mirador-canvaslink)
+        - [CanvasNavigation](https://github.com/dbmdz/mirador-canvasnavigation)
+        - [DownloadDialog](https://github.com/dbmdz/mirador-downloaddialog)
+        - [ImageCropper](https://github.com/dbmdz/mirador-imagecropper)
+        - [KeyboardShortcuts](https://github.com/dbmdz/mirador-keyboardshortcuts)
+        - [TextOverlay](https://github.com/dbmdz/mirador-textoverlay)
 - [Annotation Tooltip](https://github.com/2SC1815J/mirador-annotation-tooltip-plugin) (M3)
 - [LDN Plugin](https://github.com/jeffreycwitt/mirador-ldn-plugin) (M2) - An experimental plugin for incorporating supplemental IIIF content into Mirador via Linked Data Notifications.
 - [Jump-to-page](https://github.com/sul-dlss/mirador-jump-to-page) (M2) - A Mirador plugin that allows users to select a page from a dropdown.
