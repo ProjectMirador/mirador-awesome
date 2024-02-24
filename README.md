@@ -72,3 +72,23 @@ Have a Mirador implementation? Label it with ["mirador"](https://github.com/sear
 - [vHMML](https://www.vhmml.org) - Mirador as an embedded viewer that provides access to [The Hill Museum & Manuscript Library's](http://hmml.org/) (HMML) digital and microfilm collections. 
 - [Art Institute of Chicago](https://www.artic.edu/) - An in-gallery implementation of Mirador with custom design work and added swipe capabilities. This implementation was designed and developed specifically for an iPad Pro using Kiosk Pro. An example [here](http://media.artic.edu/charleswhite/). Check out our 'inGallery' branch here: [https://github.com/art-institute-of-chicago/mirador](https://github.com/art-institute-of-chicago/mirador).
 - [Irish Script on Screen](https://www.isos.dias.ie)
+
+## Demos
+
+- Project Mirador demos of the current development version (M3). The code for all examples can be found in the [Mirador Github repo](https://github.com/ProjectMirador/mirador/tree/master/__tests__/integration/mirador).
+  - [General Mirador viewer demo](https://mirador-dev.netlify.app/__tests__/integration/mirador/) - Mirador with a common configuration and many example manifests
+  - [Audio/Video demo](https://mirador-dev.netlify.app/__tests__/integration/mirador/video.html)
+  - [Content Search API demo](https://mirador-dev.netlify.app/__tests__/integration/mirador/contentsearch.html)
+  - [Authentication API Demo](https://mirador-dev.netlify.app/__tests__/integration/mirador/auth.html)
+  - [Collection demo](https://mirador-dev.netlify.app/__tests__/integration/mirador/collections.html) - Start Mirador with a IIIF Collection view
+  - [Layers demo](https://mirador-dev.netlify.app/__tests__/integration/mirador/layers.html)
+  - [Embedding demo](https://mirador-dev.netlify.app/__tests__/integration/mirador/embedding.html) - Embed multiple Mirador instances into a page
+  - [SVG annotation demo](https://mirador-dev.netlify.app/__tests__/integration/mirador/svg_annos.html) - Use SVG selectors for Canvas annotations
+  - [Right-to-left demo](https://mirador-dev.netlify.app/__tests__/integration/mirador/rtl.html) - See how Mirador handles the `"viewingDirection": "right-to-left"` and how the GUI theme can also be orderd from right to left
+  - [Minimalist demo](https://mirador-dev.netlify.app/__tests__/integration/mirador/minimalist.html) - A viewer with minimal controls and no close option, e.g. for a kiosk view
+
+
+
+
+
+
