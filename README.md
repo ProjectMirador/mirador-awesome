@@ -7,6 +7,9 @@ An awesome list for Mirador's projects and plugins.
 
 Creating your own plugin? Label it with ["mirador-plugins"](https://github.com/search?q=topic%3Amirador-plugins&type=Repositories). `M3` between brackets indicates support for Mirador 3, where known. 
 
+- Tetras Libre
+    - [Mirador Annotation Editor (MAE)](https://github.com/TETRAS-IIIF/mirador-annotation-editor) : (M4)
+    - [Mirador Annotation Editor Video (MAEV)](https://github.com/TETRAS-IIIF/mirador-annotation-editor-video) : (https://github.com/TETRAS-IIIF/mirador-video)
 - Project Mirador:
     - [Annotations Plugin](https://github.com/ProjectMirador/mirador-annotations) (M3)
     - [Annotot Endpoint Plugin](https://github.com/ProjectMirador/mirador-annotot-endpoint-plugin)  (M3)
@@ -42,6 +45,7 @@ Creating your own plugin? Label it with ["mirador-plugins"](https://github.com/s
 
 ## Mirador-Based Tools
 
+- [Mirador Multi User (MMU)](https://mirador-multi-user.com/) - Mirador 4 based, fully featured multi-user workbench supporting collaborative works and annotations.
 - [IIIF Toolkit with Mirador](https://github.com/utlib/IiifItems) - Embeds Mirador into Omeka Classic with a built-in annotator, a manifest generator and importer, Simple Pages shortcodes and Exhibit Builder blocks for a rich IIIF-compliant presentation experience.
 - [Mirador extension for MediaWiki](https://github.com/a-g-van-hamel-foundation/Mirador/) - offers a parser function to make a build of Mirador 3, including four plugins, available for use in MediaWiki. Developed by CODECS.
 
@@ -56,6 +60,7 @@ Creating your own plugin? Label it with ["mirador-plugins"](https://github.com/s
 
 Have a Mirador implementation? Label it with ["mirador"](https://github.com/search?q=topic%3Amirador&type=Repositories)
 
+- [Mirador Video](https://tetras-iiif.github.io/mirador-video/) - Forked Mirador 4 to add annotations on video support. 
 - [SCTA Mirador Instance](http://mirador.scta.info) - A Mirador instance dedicated to viewing manuscripts collected and curated by the Scholastic Commentaries and Texts Archive.
 - [Archaeology of Reading](http://archaeologyofreading.org/viewer/) - A Mirador instance for displaying and studying annotations in early printed books.
 - [Harvard Art Museums](http://apps.harvardartmuseums.org/mirador/) A Mirador instance of random objects in the Harvard Art Museums collection.
